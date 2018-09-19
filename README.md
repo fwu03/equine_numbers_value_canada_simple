@@ -14,4 +14,4 @@ Horse population data were sourced from the [Government of Canada's Open Data we
 ## Instructions to run:
 1. clone or download this repository
 2. open RStudio and set this project root as the working directory
-3. type `source("plot_horses.R")` or run the script interactively through the editor
+3. type `source("src/plot_horses.R")` or run the script interactively through the editor
